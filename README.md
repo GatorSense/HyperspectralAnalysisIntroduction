@@ -12,7 +12,7 @@ The introduction material was placed into four (Python 3) Jupyter notebooks:
 3. Target Detection.ipynb
 4. Classification.ipynb
 
-The file requirements.txt gives all of the package dependencies for the Python environment. You should be able to install them with the command
+The file requirements.txt gives all of the package dependencies for the Python environment. You should be able to install them with the command:
 
 ```
 > pip install -r requirements.txt

@@ -7,7 +7,7 @@ Authors: Taylor Glenn and Alina Zare
 
 The introduction material was placed into four (Python 3) Jupyter notebooks:
 
-1. HSI Intro,ipynb
+1. HSI Intro.ipynb
 2. Unmixing.ipynb
 3. Target Detection.ipynb
 4. Classification.ipynb

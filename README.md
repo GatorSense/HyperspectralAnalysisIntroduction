@@ -5,7 +5,7 @@ This introduction was presented at the Phenome Digital Phenotyping Workshop at P
 
 Authors: Taylor Glenn and Alina Zare
 
-Please reference this work if used elsewhere: 
+Please reference this work if any party of it is used elsewhere: 
 [![DOI](https://zenodo.org/badge/123327729.svg)](https://zenodo.org/badge/latestdoi/123327729)
 
 The introduction material was placed into four (Python 3) Jupyter notebooks:

@@ -8,6 +8,8 @@ Authors: Taylor Glenn and Alina Zare
 Please reference this work if any part of it is used elsewhere: 
 [![DOI](https://zenodo.org/badge/123327729.svg)](https://zenodo.org/badge/latestdoi/123327729)
 
+A. Zare and T. Glenn. (2018, March 1). GatorSense/HyperspectralAnalysisIntroduction v0.3 (Version v0.3). Zenodo. http://doi.org/10.5281/zenodo.1186417
+
 The introduction material was placed into four (Python 3) Jupyter notebooks:
 
 1. HSI Intro.ipynb

@@ -98,7 +98,7 @@ def SPICE(inputData, parameters):
     M = parameters.M
     X = inputData
     
-    if parameters.initEM == None:
+    if parameters.initEM is None:
         # Find Random Initial Endmembers
         randIndices = np.random.permutation(inputData.shape[1])
         randIndices = randIndices[0:parameters.M]

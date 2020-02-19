@@ -1,9 +1,9 @@
 # A (very) Brief Introduction to Hyperspectral Image Analysis
 Brief Introduction to Hyperspectral Image Analysis.
 
-This introduction was presented at the Phenome Digital Phenotyping Workshop at Phenome 2018 (http://phenome2018.org) in Tucson, AZ on Saturday, February 14, 2018. 
+This introduction was presented at the Phenome Digital Phenotyping Workshop at Phenome 2019 (http://phenome2019.org) in Tucson, AZ on Monday, February 24, 2019. 
 
-Authors: Taylor Glenn and Alina Zare
+Authors: Alina Zare, Taylor Glenn, and Susan Meerdink
 
 Please reference this work if any part of it is used elsewhere: 
 [![DOI](https://zenodo.org/badge/123327729.svg)](https://zenodo.org/badge/latestdoi/123327729)

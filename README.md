@@ -8,7 +8,7 @@ Authors: Alina Zare, Taylor Glenn, and Susan Meerdink
 Please reference this work if any part of it is used elsewhere: 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3688795.svg)](https://doi.org/10.5281/zenodo.3688795)
 
-A. Zare, T. Glenn and S. Meerdink. (2020, February 26). GatorSense/HyperspectralAnalysisIntroduction v0.4 (Version v0.4). Zenodo. 
+A. Zare, T. Glenn and S. Meerdink. (2020, February 26). GatorSense/HyperspectralAnalysisIntroduction v0.4 (Version v0.4). Zenodo. http://doi.org/10.5281/zenodo.3688795
 
 The introduction material was placed into four (Python 3) Jupyter notebooks:
 

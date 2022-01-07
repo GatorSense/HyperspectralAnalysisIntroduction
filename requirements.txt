@@ -1,6 +1,6 @@
 appnope==0.1.0
 bleach==2.1.2
-cvxopt==1.1.9
+cvxopt==1.2.7
 cycler==0.10.0
 Cython==0.27.3
 decorator==4.2.1
